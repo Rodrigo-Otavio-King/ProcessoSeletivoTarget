@@ -1,0 +1,8 @@
+<!-- faturamento.xml -->
+<faturamento>
+    <dia data="01-08-2024">5000</dia>
+    <dia data="02-08-2024">6000</dia>
+    <dia data="03-08-2024">0</dia> <!-- Feriado -->
+    <dia data="04-08-2024">7000</dia>
+    <!-- Adicione mais dias conforme necessário -->
+</faturamento>
