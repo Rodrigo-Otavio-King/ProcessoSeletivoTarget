@@ -3,7 +3,7 @@ Desafios propostos em um processo seletivo de vaga para a empresa Target Sistema
 Desafio Target - Repositório de Código
 
 Bem-vindo ao repositório do Desafio Target! Este repositório contém soluções para uma série de problemas de programação em C. Abaixo estão as instruções detalhadas para compilar e executar os programas, bem como a configuração necessária para o problema que utiliza XML.
-
+Criado pelo software DevC++, utilizando a linguagem C
 Estrutura do Repositório
 ------------------------
 
